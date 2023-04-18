@@ -1,0 +1,1 @@
+# swiftui_list_set_to_basic
