@@ -9,6 +9,7 @@
             }
             .listRowBackground(self.theme.backgroundColor)
             .listRowInsets(EdgeInsets())
+            .listRowSeparator(.hidden)
         } //: LIST
         .environment(\.locale, Locale(identifier: self.lang))
         .listStyle(.plain)
